@@ -19,7 +19,7 @@
 
 
 
-[This document](../HOWTO_GitHub.md) explains how to hand in the assignments on GitHub.
+[This document](https://github.com/dat310-spring20/course-info/blob/master/HOWTO_GitHub.md) explains how to hand in the assignments on GitHub.
 
 ## Requirements
 
