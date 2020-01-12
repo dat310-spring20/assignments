@@ -3,7 +3,7 @@
 
 **Create the following HTML files:**
 
-  *	`index.html` that includes a header, a paragraph with text, and the following links
+  *	`index.html` that includes a heading, a paragraph with text, and the following links
 	  - "tables" that points to tables.html
 	  - "lists" that points to lists.html
 	  - "images" to points to images.html
@@ -28,7 +28,7 @@ These files need to be committed and pushed to GitHub.
 
 **Lag følgende HTML-filer:**
 
-  *	`index.html` som inkluderer header, noe paragraftekst og følgende lenker
+  *	`index.html` som inkluderer en overskrift, noe paragraftekst og følgende lenker
     - "tables" som peker på tables.html
     - "lists" som peker på lists.html
     - "images" som peker på images.html
