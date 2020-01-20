@@ -8,8 +8,8 @@
 | --- | --- | --- | --- | --- |
 | [#1 HTML](assignment-1/) | 07/01 | 10/01 | 0.7p |  |
 | [#2 CSS](assignment-2/) | 14/01 | 21/01 | 0.7p |  |
-| [#3 Page prototype](assignment-3/) | 22/01 | 04/02 | 1.4p |  |
-| [#4 JavaScript](assignment-4/) | 06/02 | 18/02 | 1.3p |   |
+| [#3 Page prototype](assignment-3/) | 22/01 | 03/02 | 1.4p |  |
+| [#4 JavaScript](assignment-4/) | 06/02 | 17/02 | 1.3p |   |
 | [#5 Memory](assignment-5/) | 18/02 | 28/02 | 1.3p |  |
 | [#6 Addressbook-Backend](assignment-6/) | 27/02 | 06/03 | 0.7p |  |
 | [#7 Online shop](assignment-7/) | 10/03  | 20/03 | 1.4p |  |
