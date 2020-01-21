@@ -34,7 +34,7 @@ Under the `samples/` folder of the starting files (in your private GitHub reposi
   *	**Main**
     -	There has to be 100px vertical space (margin or padding) on top of the main area.
     -	The main area is 90% of the width of the page and is center-aligned. That means it resizes automatically when the window is resized, but has a maximum width of 1400px (see the screenshots under `samples/`).
-    -	The main header (h1) inside main has a background color, 1.2em font size, and 5px padding around.
+    -	Main headers (h1) inside `<main>` have a background color, 1.2em font size, and 5px padding around (see Product Page).
     -	Framed boxes have a solid 1px border and 5px padding. The font-size is 0.8em.
   *	**Footer**
     -	The footer always stays at the bottom of the page, but the footer is "sticky" (i.e., when the page is long, you need to scroll down to see the footer)
@@ -143,7 +143,7 @@ Under `samples/` mappen finner du skjermbilder som skal fungere som eksempel av 
   *	**Main**
     -	Det skal være 100px vertikalt rom (margin eller padding) på toppen av mainområdet.
     -	Skal være 90% i bredden og være sentrert. Det betyr at den skal automatisk tilpasse seg når sidestørrelsen forandres, men den skal ha en maximum bredde på 1400px (se bildene under `samples/`).
-    -	Hovedoverskriften (h1) i main skal ha en bakgrunnsfarge, 1.2em font størrelse og 5px padding rundt.
+    -	Hovedoverskrifter (h1) i `<main>` skal ha en bakgrunnsfarge, 1.2em font størrelse og 5px padding rundt (e.g. på produktsiden)
     -	Innrammede bokser har en solid 1px border og 5px padding. Font størrelse 0.8em.
 
   *	**Footer**
