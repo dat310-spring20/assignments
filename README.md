@@ -7,7 +7,7 @@
 | Assignment | Announced | Deadline | Points | Solution |
 | --- | --- | --- | --- | --- |
 | [#1 HTML](assignment-1/) | 07/01 | 10/01 | 0.7p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/1) |
-| [#2 CSS](assignment-2/) | 14/01 | 21/01 | 0.7p |  |
+| [#2 CSS](assignment-2/) | 14/01 | 21/01 | 0.7p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/2) |
 | [#3 Page prototype](assignment-3/) | 22/01 | 03/02 | 1.4p |  |
 | [#4 JavaScript](assignment-4/) | 06/02 | 17/02 | 1.3p |   |
 | [#5 Memory](assignment-5/) | 18/02 | 28/02 | 1.3p |  |
