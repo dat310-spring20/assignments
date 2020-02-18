@@ -10,7 +10,7 @@
 | [#2 CSS](assignment-2/) | 14/01 | 21/01 | 0.7p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/2) |
 | [#3 Page prototype](assignment-3/) | 22/01 | 03/02 | 1.4p |  |
 | [#4 JavaScript](assignment-4/) | 06/02 | 17/02 | 1.3p |   |
-| [#5 Memory](assignment-5/) | 18/02 | 28/02 | 1.3p |  |
+| [#5 Flask templates](assignment-5/) | 18/02 | 28/02 | 1.3p |  |
 | [#6 Addressbook-Backend](assignment-6/) | 27/02 | 06/03 | 0.7p |  |
 | [#7 Online shop](assignment-7/) | 10/03  | 20/03 | 1.4p |  |
 | [#8 AJAX](assignment-8/) | 24/03 | 31/03 | 0.9p |  |
