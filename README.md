@@ -8,14 +8,13 @@
 | --- | --- | --- | --- | --- |
 | [#1 HTML](assignment-1/) | 07/01 | 10/01 | 0.7p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/1) |
 | [#2 CSS](assignment-2/) | 14/01 | 21/01 | 0.7p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/2) |
-| [#3 Page prototype](assignment-3/) | 22/01 | 03/02 | 1.4p |  |
+| [#3 Page prototype](assignment-3/) | 22/01 | 03/02 | 1.4p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/2) |
 | [#4 JavaScript](assignment-4/) | 06/02 | 17/02 | 1.3p |   |
-| [#5 Flask templates](assignment-5/) | 18/02 | 28/02 | 1.3p |  |
-| [#6 Addressbook-Backend](assignment-6/) | 27/02 | 06/03 | 0.7p |  |
-| [#7 Online shop](assignment-7/) | 10/03  | 20/03 | 1.4p |  |
-| [#8 AJAX](assignment-8/) | 24/03 | 31/03 | 0.9p |  |
-| [#9 Shop admin](assignment-9/) | 03/04 | 14/04 | 1.4p |  |
-| [#10 Circuit Wars](assignment-10/) | 14/04 | 22/04 | 1p |  |
+| [#5 Flask templates](assignment-5/) | 18/02 | 03/03 | 1.3p |  |
+| [#6 Memory](assignment-6/) | 03/03 | 17/03 | 1p |  |
+| [#7 AJAX](assignment-7/) | 17/03 | 31/03 | 1p |  |
+| [#8 Online shop](assignment-8/) | 24/03  | 14/04 | 2p |  |
+| [#9 Circuit Wars](assignment-9/) | 14/04 | 22/04 | 1p |  |
 
 
 
@@ -24,12 +23,12 @@
 ## Requirements
 
   - You need to register at the [Online course admin](https://ux.uis.no/~ljehl/dat310/) ASAP.
-  - 10 assignments in total
+  - 9 assignments in total
   - Each assignment is worth different amount of points
   - Binary assessments: approved (godkjent) or not approved (ikke godjkent)
   - At least 8 points needed (approx. 8 assignments) to be allowed to take the exam
     - At least 4 points from Assignments #1-#5
-    - At least 4 points from Assignments #6-#10
+    - At least 4 points from Assignments #6-#9
 
 ## Rules
 
