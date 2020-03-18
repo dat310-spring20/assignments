@@ -19,9 +19,10 @@ The `samples/` folder in your GitHub repository contains some example screenshot
 Commit and push the files to GitHub.
 
 You may or may not find these examples helpfull:
-[Vuejs card component](https://github.com/dat310-spring20/course-info/tree/master/examples/js/vue2/card)
-[JS3 Exercise4](https://github.com/dat310-spring20/course-info/tree/master/exercises/js/more#exercise-4-countdown-timer)
-[JS3 Exercise5](https://github.com/dat310-spring20/course-info/tree/master/exercises/js/more#exercise-5-card-board)
+* [Vuejs card component](https://github.com/dat310-spring20/course-info/tree/master/examples/js/vue2/card)
+* [Card2](https://github.com/dat310-spring20/course-info/tree/master/examples/js/vue2/card2)
+* [JS3 Exercise4](https://github.com/dat310-spring20/course-info/tree/master/exercises/js/more#exercise-4-countdown-timer)
+* [JS3 Exercise5](https://github.com/dat310-spring20/course-info/tree/master/exercises/js/more#exercise-5-card-board)
 
 
 # Øving 6 - Vuejs
@@ -46,6 +47,7 @@ I mappen `samples/` i din GitHub repository ligger noen skjermbilder med eksempl
 Commit og push filene til GitHub.
 
 Kanskje disse er nyttige:
-[Vuejs card component](https://github.com/dat310-spring20/course-info/tree/master/examples/js/vue2/card)
-[JS3 Exercise4](https://github.com/dat310-spring20/course-info/tree/master/exercises/js/more#exercise-4-countdown-timer)
-[JS3 Exercise5](https://github.com/dat310-spring20/course-info/tree/master/exercises/js/more#exercise-5-card-board)
+* [Vuejs card component](https://github.com/dat310-spring20/course-info/tree/master/examples/js/vue2/card)
+* [Card2](https://github.com/dat310-spring20/course-info/tree/master/examples/js/vue2/card2)
+* [JS3 Exercise4](https://github.com/dat310-spring20/course-info/tree/master/exercises/js/more#exercise-4-countdown-timer)
+* [JS3 Exercise5](https://github.com/dat310-spring20/course-info/tree/master/exercises/js/more#exercise-5-card-board)
