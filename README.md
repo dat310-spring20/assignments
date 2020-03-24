@@ -9,7 +9,7 @@
 | [#1 HTML](assignment-1/) | 07/01 | 10/01 | 0.7p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/1) |
 | [#2 CSS](assignment-2/) | 14/01 | 21/01 | 0.7p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/2) |
 | [#3 Page prototype](assignment-3/) | 22/01 | 03/02 | 1.4p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/2) |
-| [#4 JavaScript](assignment-4/) | 06/02 | 17/02 | 1.3p |   |
+| [#4 JavaScript](assignment-4/) | 06/02 | 17/02 | 1.3p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/4)  |
 | [#5 Flask templates](assignment-5/) | 18/02 | 03/03 | 1.3p |  |
 | [#6 Memory](assignment-6/) | 03/03 | 17/03 | 1p |  |
 | [#7 AJAX](assignment-7/) | 17/03 | 31/03 | 1p |  |
