@@ -13,7 +13,7 @@
 | [#5 Flask templates](assignment-5/) | 18/02 | 03/03 | 1.3p |  |
 | [#6 Memory](assignment-6/) | 03/03 | 17/03 | 1p |  |
 | [#7 AJAX](assignment-7/) | 17/03 | 31/03 | 1p |  |
-| [#8 Online shop](assignment-8/) | 24/03  | 14/04 | 2p |  |
+| [#8 Online shop](assignment-8/) | 31/03  | 14/04 | 2p |  |
 | [#9 Circuit Wars](assignment-9/) | 14/04 | 22/04 | 1p |  |
 
 
