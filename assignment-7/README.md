@@ -1,5 +1,7 @@
 # Assignment 7 - AJAX
 
+**Info: You can use fetch, async/await, or XMLHTTPRequests in this assignment, which ever suits you best.**
+
 Your task is to create a simple web application using AJAX that allows users to browse music albums.
 
   *	When the user opens the page a list of music albums is displayed. The right panel (`album_info` div) is initially empty.
