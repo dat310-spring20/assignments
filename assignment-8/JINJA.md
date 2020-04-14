@@ -8,6 +8,9 @@ However, there will be extra credit if you use your own solution.
 There are again two variants of this assignment. 
  * Using vue (described in a separate file) or
  * using jinja-templates and session.
+ 
+I added a [hint](#hint-saving-order-rows) on saving order rows.
+ 
 Database access will be the same in both assignments:
 
 ### Mysql
@@ -96,6 +99,9 @@ Du kan bruke [løsningen](https://github.com/dat310-spring20/assignments-solutio
 Det er igjen to varianter av denne oppgaven.
   * Bruke vue (beskrevet i en egen fil), eller
   * bruk jinja-templates og session som beskrevet under.
+  
+Jeg la til et [tips](#hint-saving-order-rows) on saving order rows.  
+  
 Databasetilgang vil være den samme i begge oppgavene:
 
 ### Mysql
