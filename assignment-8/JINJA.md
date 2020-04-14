@@ -73,6 +73,20 @@ Add the new item to the cart and redirect the user to `/product.html`.
 
 ![Confirmation](samples/confirmation.png)
 
+#### Hint: Saving order rows:
+
+If your orders table has a `order_id` that is set to autoincrement, you can do the following:
+To save the order, first insert the address data into the `orders` table. Then you can retrieve the id of your new order as `lastrowid` and use it when inserting into the order_row table. 
+This might look like the code below:
+
+```python
+cur.execute(orders_table_sql, arguments)
+orderid = cur.lastrowid
+for item in cart:
+  item['orderid'] = orderid
+  cur.execute(order_rows_sql, item)
+```
+
 # Øving 8 (Jinja templates og session)
 
 I denne oppgaven skal du utvide din web-shop-mockup fra Innlevering 3 til en fulstendig webapplikasjon.
@@ -146,3 +160,17 @@ Du må implementere følgende checkout flow:
   * ved å trykke submit igjen, blir addressen og innhold i hanldevognen  lagret i databasen. Brukeren får en bekreftelse.
 
 ![Confirmation](samples/confirmation.png)
+
+#### Hint: Saving order rows:
+
+If your orders table has a `order_id` that is set to autoincrement, you can do the following:
+To save the order, first insert the address data into the `orders` table. Then you can retrieve the id of your new order as `lastrowid` and use it when inserting into the order_row table. 
+This might look like the code below:
+
+```python
+cur.execute(orders_table_sql, arguments)
+orderid = cur.lastrowid
+for item in cart:
+  item['orderid'] = orderid
+  cur.execute(order_rows_sql, item)
+```

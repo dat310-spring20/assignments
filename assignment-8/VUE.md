@@ -77,6 +77,19 @@ Additionally you need to implement the two endpoints `/products` and `/order`.
 * `/products` retrieves products from the database and sends them as JSON.
 * `/order` gets an address and cart from the frontent, and saves to the `orders` and `order_rows` tables.
 
+#### Hint: Saving order rows:
+
+If your orders table has a `order_id` that is set to autoincrement, you can do the following:
+To save the order, first insert the address data into the `orders` table. Then you can retrieve the id of your new order as `lastrowid` and use it when inserting into the order_row table. 
+This might look like the code below:
+
+```python
+cur.execute(orders_table_sql, arguments)
+orderid = cur.lastrowid
+for item in cart:
+  item['orderid'] = orderid
+  cur.execute(order_rows_sql, item)
+```
 
 #  Øving 8 (Vue)
 
@@ -130,7 +143,7 @@ Startfilene inneholder allerede en ganske komplekst vue-applikasjon, inkludert e
    - `product.js` inneholder produktsiden. Denne komponenten mottar en product_id (pid) som `props`, henter dette produktet fra store og viser det.
    - `aside-cart.js` viser sammendraget om handlekurven som vises på både hovedsiden og produktsiden.
 
-### Client side TODO:
+#### Client side TODO:
 Du må implementere følgende checkout flow:
   * `/cart`: viser handlekurven or et skjema for leveringsaddressen.
     - Alle felt i skjemaet skal være **required**.
@@ -147,8 +160,22 @@ Du må implementere følgende checkout flow:
 
 ![Confirmation](samples/confirmation.png)
 
-### Server side TODO (Vue):
+#### Server side TODO (Vue):
 Du må fullføre `script.sql` som beskrevet ovenfor.
 I tillegg må du implementere de to endepunktene `/products` og` /order`.
 * `/products` henter produkter fra databasen og sender dem som JSON.
 * `/order` får en addresse og handlekurv fra browseren og larger i tabellene `orders` og `order_rows`.
+
+#### Hint: Saving order rows:
+
+If your orders table has a `order_id` that is set to autoincrement, you can do the following:
+To save the order, first insert the address data into the `orders` table. Then you can retrieve the id of your new order as `lastrowid` and use it when inserting into the order_row table. 
+This might look like the code below:
+
+```python
+cur.execute(orders_table_sql, arguments)
+orderid = cur.lastrowid
+for item in cart:
+  item['orderid'] = orderid
+  cur.execute(order_rows_sql, item)
+```
