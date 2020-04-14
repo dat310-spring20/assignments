@@ -10,6 +10,8 @@ There are again two variants of this assignment.
  * using jinja-templates and session (described in a separate file).
 Database access will be the same in both assignments:
 
+I added a [hint](#hint-saving-order-rows) on saving order rows.
+
 ### Mysql
 
 Your application should use a database called `dat310`. 
@@ -100,6 +102,10 @@ Du kan bruke [løsningen](https://github.com/dat310-spring20/assignments-solutio
 Det er igjen to varianter av denne oppgaven.
   * Bruke vue, som beskrevet under eller
   * bruk jinja-templates og session (beskrevet i en egen fil).
+
+
+Jeg la til [tips](#hint-saving-order-rows) on saving order rows.
+
 Databasetilgang vil være den samme i begge oppgavene:
 
 ### Mysql
