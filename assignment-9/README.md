@@ -9,7 +9,6 @@ If you work in teams, then **only one the team captain should submit the solutio
 To pass the assignment, your program should be capable of playing a full game from registering until all segments on the board become occupied, without prematurely ending the game with an illegal move or a timeout. (You are not required to win in order to pass.)
 
 Each delivery that is approved automatically enters the championship. 
-The top performing teams will receive bonus points at the final exam (the points are for each team member).
 
 There is no possibility of a revision on this assignment.
 
