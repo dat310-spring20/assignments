@@ -13,8 +13,8 @@
 | [#4 JavaScript](assignment-4/) | 06/02 | 17/02 | 1.3p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/4)  |
 | [#5 Flask templates](assignment-5/) | 18/02 | 03/03 | 1.3p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/5) |
 | [#6 Memory](assignment-6/) | 03/03 | 17/03 | 1p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/6) |
-| [#7 AJAX](assignment-7/) | 17/03 | 31/03 | 1p |  |
-| [#8 Online shop](assignment-8/) | 31/03  | 14/04 | 2p |  |
+| [#7 AJAX](assignment-7/) | 17/03 | 31/03 | 1p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/7) |
+| [#8 Online shop](assignment-8/) | 31/03  | 14/04 | 2p | [solution](https://github.com/dat310-spring20/assignments-solutions/tree/master/8) |
 | [#9 Circuit Wars](assignment-9/) | 14/04 | 24/04 | 1p |  |
 
 
